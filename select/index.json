@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "飴色の微熱",
+  "base_artist": "somunia",
+  "createdAt": "2026-02-12T12:50:28.276762Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飴色の微熱",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_飴色の微熱_somunia.txt"
+    }
+  ]
+}
